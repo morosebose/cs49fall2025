@@ -10,7 +10,6 @@ Contributors:
 - Lane Johnson, Foothill College
 - Mehran Sahami, Stanford University
 - Chris Piech, Stanford University
-- Miranda Li, Stanford University
 
 Acknowledgments:
 - Christian Jonathan Gomez, Foothill College
