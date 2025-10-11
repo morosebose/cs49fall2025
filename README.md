@@ -4,7 +4,7 @@ This repository includes code solutions and slides for Foothill CS 49 / Stanford
 
 ## Credits
 
-Code and slides: Surajit A. Bose, © 2025
+Code and section slides: Surajit A. Bose, © 2025
 
 Contributors: 
 - Lane Johnson, Foothill College
@@ -17,8 +17,4 @@ Acknowledgments:
 - Luise Pauline Haller, Foothill College
 - Alice He, Foothill College
 - Ömer İncialan, Foothill College
-- Sarah Khan, Georgia Tech
-- Sina Khazaei, Tufts University
-- Vaibhavi Kulkarni, UC Berkeley
-- Alex Martinez, Foothill College
 - Yasmin Wallis, Foothill College
