@@ -46,7 +46,6 @@ def complete_one_row():
     move_to_wall()
 
 
-
 def move_to_next_row():
     """Move Karel to next row"""
     turn_right()
