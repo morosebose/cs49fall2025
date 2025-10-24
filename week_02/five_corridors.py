@@ -24,7 +24,7 @@ def main():
     for _ in range(4):
         complete_one_row()
         move_to_next_row()
-    complete_one_row()
+    complete_one_row()      # fencepost condition
     turn_around()
 
 
