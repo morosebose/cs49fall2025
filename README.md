@@ -16,4 +16,5 @@ Acknowledgments:
 - Luise Pauline Haller, Foothill College
 - Alice He, Foothill College
 - Ömer İncialan, Foothill College
+- Sarah Khan, Georgia Tech
 - Yasmin Wallis, Foothill College
