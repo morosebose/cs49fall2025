@@ -21,7 +21,7 @@ def main():
     
     Preconditions: 
     - Karel is standing at the end of a row facing east
-    - Somewhere in the row is a pile of n beepers
+    - Directly in front of Karel is a pile of n beepers
         
     Postconditions: 
     - Beepers are spread out over n corners 
