@@ -22,7 +22,6 @@ def main():
     mars_weight = earth_weight * MARS_CONVERSION_RATE
     mars_weight = round(mars_weight, 2)
     """
-
     
     # Recommended solution: Combine calculation and rounding in one step
     mars_weight = round(earth_weight * MARS_CONVERSION_RATE, 2)
